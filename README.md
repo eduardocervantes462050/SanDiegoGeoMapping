@@ -4,4 +4,3 @@
 
 View interactive map: [Click Here](https://yourusername.github.io/reponame/](https://eduardocervantes462050.github.io/SanDiegoGeoMapping/)
 
-
